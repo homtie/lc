@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/homtie/lc/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/homtie/lc/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/homtie/lc/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/homtie/lc/tree/main/0016-3sum-closest/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/homtie/lc/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/homtie/lc/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/homtie/lc/tree/main/0016-3sum-closest/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -67,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/homtie/lc/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/homtie/lc/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
