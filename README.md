@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/homtie/lc/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/homtie/lc/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/homtie/lc/tree/main/0009-palindrome-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
