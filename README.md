@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/homtie/lc/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/homtie/lc/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/homtie/lc/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/homtie/lc/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/homtie/lc/tree/main/0010-regular-expression-matching/) | Hard |
+| [0021-merge-two-sorted-lists](https://github.com/homtie/lc/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
