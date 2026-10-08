@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/homtie/lc/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/homtie/lc/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/homtie/lc/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/homtie/lc/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,12 +140,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/homtie/lc/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/homtie/lc/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/homtie/lc/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/homtie/lc/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/homtie/lc/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/homtie/lc/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/homtie/lc/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
