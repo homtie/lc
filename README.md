@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/homtie/lc/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/homtie/lc/tree/main/0038-count-and-say/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/homtie/lc/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/homtie/lc/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/homtie/lc/tree/main/0011-container-with-most-water/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/homtie/lc/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/homtie/lc/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/homtie/lc/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/homtie/lc/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/homtie/lc/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/homtie/lc/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/homtie/lc/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/homtie/lc/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/homtie/lc/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
