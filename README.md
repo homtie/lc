@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/homtie/lc/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/homtie/lc/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/homtie/lc/tree/main/0040-combination-sum-ii/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/homtie/lc/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/homtie/lc/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/homtie/lc/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/homtie/lc/tree/main/0018-4sum/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/homtie/lc/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/homtie/lc/tree/main/0011-container-with-most-water/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/homtie/lc/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/homtie/lc/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
