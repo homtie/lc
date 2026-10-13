@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/homtie/lc/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/homtie/lc/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/homtie/lc/tree/main/0037-sudoku-solver/) | Hard |
+| [0040-combination-sum-ii](https://github.com/homtie/lc/tree/main/0040-combination-sum-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/homtie/lc/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/homtie/lc/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/homtie/lc/tree/main/0037-sudoku-solver/) | Hard |
+| [0040-combination-sum-ii](https://github.com/homtie/lc/tree/main/0040-combination-sum-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
