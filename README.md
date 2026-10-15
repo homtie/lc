@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/homtie/lc/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/homtie/lc/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/homtie/lc/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/homtie/lc/tree/main/0042-trapping-rain-water/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/homtie/lc/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/homtie/lc/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/homtie/lc/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/homtie/lc/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/homtie/lc/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/homtie/lc/tree/main/0042-trapping-rain-water/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/homtie/lc/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/homtie/lc/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/homtie/lc/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/homtie/lc/tree/main/0042-trapping-rain-water/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/homtie/lc/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/homtie/lc/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/homtie/lc/tree/main/0042-trapping-rain-water/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/homtie/lc/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/homtie/lc/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Bracket Sequences
@@ -219,4 +223,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/homtie/lc/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/homtie/lc/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
