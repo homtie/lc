@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/homtie/lc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/homtie/lc/tree/main/0045-jump-game-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/homtie/lc/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/homtie/lc/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/homtie/lc/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/homtie/lc/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/homtie/lc/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/homtie/lc/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/homtie/lc/tree/main/0018-4sum/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/homtie/lc/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/homtie/lc/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/homtie/lc/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Linked List
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/homtie/lc/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/homtie/lc/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/homtie/lc/tree/main/0035-search-insert-position/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/homtie/lc/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
