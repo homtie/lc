@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/homtie/lc/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/homtie/lc/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/homtie/lc/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/homtie/lc/tree/main/0048-rotate-image/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/homtie/lc/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/homtie/lc/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/homtie/lc/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/homtie/lc/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/homtie/lc/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/homtie/lc/tree/main/0048-rotate-image/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/homtie/lc/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/homtie/lc/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/homtie/lc/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/homtie/lc/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/homtie/lc/tree/main/0048-rotate-image/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
