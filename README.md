@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/homtie/lc/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/homtie/lc/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/homtie/lc/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/homtie/lc/tree/main/0049-group-anagrams/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/homtie/lc/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/homtie/lc/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/homtie/lc/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/homtie/lc/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/homtie/lc/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/homtie/lc/tree/main/0049-group-anagrams/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/homtie/lc/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/homtie/lc/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/homtie/lc/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/homtie/lc/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/homtie/lc/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/homtie/lc/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/homtie/lc/tree/main/0049-group-anagrams/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/homtie/lc/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/homtie/lc/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/homtie/lc/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/homtie/lc/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/homtie/lc/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/homtie/lc/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/homtie/lc/tree/main/0049-group-anagrams/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/homtie/lc/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/homtie/lc/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/homtie/lc/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
