@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/homtie/lc/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/homtie/lc/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/homtie/lc/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/homtie/lc/tree/main/0050-powx-n/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/homtie/lc/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/homtie/lc/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/homtie/lc/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/homtie/lc/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/homtie/lc/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/homtie/lc/tree/main/0050-powx-n/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
