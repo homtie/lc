@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/homtie/lc/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/homtie/lc/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/homtie/lc/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/homtie/lc/tree/main/0051-n-queens/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/homtie/lc/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/homtie/lc/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/homtie/lc/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/homtie/lc/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/homtie/lc/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/homtie/lc/tree/main/0051-n-queens/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/homtie/lc/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/homtie/lc/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
