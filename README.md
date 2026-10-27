@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/homtie/lc/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/homtie/lc/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/homtie/lc/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/homtie/lc/tree/main/0052-n-queens-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/homtie/lc/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/homtie/lc/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/homtie/lc/tree/main/0052-n-queens-ii/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
