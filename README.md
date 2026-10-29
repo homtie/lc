@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/homtie/lc/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/homtie/lc/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/homtie/lc/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/homtie/lc/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/homtie/lc/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/homtie/lc/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/homtie/lc/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/homtie/lc/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/homtie/lc/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/homtie/lc/tree/main/2409-count-days-spent-together/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/homtie/lc/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/homtie/lc/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/homtie/lc/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/homtie/lc/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/homtie/lc/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/homtie/lc/tree/main/0029-divide-two-integers/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/homtie/lc/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/homtie/lc/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/homtie/lc/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -275,11 +279,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/homtie/lc/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/homtie/lc/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/homtie/lc/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/homtie/lc/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/homtie/lc/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/homtie/lc/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/homtie/lc/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/homtie/lc/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/homtie/lc/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/homtie/lc/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
