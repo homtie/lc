@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/homtie/lc/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/homtie/lc/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/homtie/lc/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/homtie/lc/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/homtie/lc/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/homtie/lc/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/homtie/lc/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/homtie/lc/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/homtie/lc/tree/main/0045-jump-game-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/homtie/lc/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/homtie/lc/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/homtie/lc/tree/main/0048-rotate-image/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/homtie/lc/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/homtie/lc/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/homtie/lc/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/homtie/lc/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
