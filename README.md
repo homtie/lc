@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/homtie/lc/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/homtie/lc/tree/main/0051-n-queens/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/homtie/lc/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/homtie/lc/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/homtie/lc/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/homtie/lc/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/homtie/lc/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/homtie/lc/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/homtie/lc/tree/main/0049-group-anagrams/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/homtie/lc/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/homtie/lc/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/homtie/lc/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/homtie/lc/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/homtie/lc/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/homtie/lc/tree/main/0050-powx-n/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/homtie/lc/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/homtie/lc/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/homtie/lc/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/homtie/lc/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/homtie/lc/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
