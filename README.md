@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/homtie/lc/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/homtie/lc/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/homtie/lc/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/homtie/lc/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/homtie/lc/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/homtie/lc/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/homtie/lc/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
